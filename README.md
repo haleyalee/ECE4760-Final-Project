@@ -1,4 +1,7 @@
 # ECE4760-Final-Project
+Haley Lee, Dustin Hwang, Brandon Guo
+ECE 4760 Fall 2019
+
 ## PIC32 Racing Video Game
 
 This project is a racing game with human input control that emulates the act of driving a car. The goal of the game is to cross the finish line in the shortest amount of time while avoiding obstacle collisions, which result in an added time penalty. The player uses an acceleration pedal, a brake pedal, and a steering wheel to control the movement of the car across the CRT display.
